@@ -2,7 +2,7 @@
   "name": "forms",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aavizek.github.io/React",
+  "homepage": "https://aavizek.github.io/React/",
   "dependencies": {
     "@babel/core": "7.4.3",
     "@material-ui/core": "^3.9.3",
